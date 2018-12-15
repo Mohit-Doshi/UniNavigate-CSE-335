@@ -1,0 +1,15 @@
+{
+  "name": "myNewApi",
+  "version": "0.0.1",
+  "description": "Wicked awesome test API",
+  "author": "mo do <mohit.dosi@gmail.com>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "zip": "zip -r ../myNewApi.zip *"
+  }
+}
