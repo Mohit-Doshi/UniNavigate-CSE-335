@@ -6,7 +6,7 @@ I came up with UniNavigate. UniNavigate displays the buildings, floors, and clas
 
 I wasn't able to find any reliable APIs or data online which would allow me to populate the buildings, floors, and classrooms table views in my app. So I decided to make my own API which I programmed using node.js and hosted on Amazon's AWS Lambda due to its serverless features. Calling this API: https://on6ilrhjvh.execute-api.us-east-1.amazonaws.com/test1 loaded all the information in my app at once. 
 
-I also demoed this app in one of its older versions at sunhacks, held at ASU Tempe from November 9-11, 2018. 
+I also demoed one of the older versions of this app at sunhacks, held at ASU Tempe from November 9-11, 2018. 
 
 The video for the technical presentation of this project as well as a demonstration of the application: https://youtu.be/DmBeYYh6HU0
 
